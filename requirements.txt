@@ -1,0 +1,9 @@
+txt
+fastapi
+uvicorn
+pandas
+scikit-learn
+numpy
+scipy
+python-multipart
+pyarrow
