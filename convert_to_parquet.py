@@ -2,7 +2,7 @@
 
 import pandas as pd
 
-# 🚨 CHANGE THIS TO MATCH YOUR ACTUAL CSV FILE NAME 🚨
+
 CSV_FILENAME = 'spotify_millsongdata.csv' 
 PARQUET_FILENAME = 'spotify_millsongdata.parquet'
 

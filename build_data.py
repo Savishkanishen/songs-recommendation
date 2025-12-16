@@ -32,4 +32,4 @@ available_titles = df["title"].tolist()
 with open("model.pkl", "wb") as f:
     pickle.dump((df, cosine_sim, indices, available_titles), f)
 
-print("✅ Model built & saved as model.pkl")
+print(" Model built & saved as model.pkl")
